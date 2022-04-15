@@ -26,7 +26,7 @@ export const mainnetTokens = defineTokens({
     MAINNET,
     '0x170814A97FD5130A611Aef99CC9b1f0745636997',
     18,
-    'PCKE',
+    'PCM',
     'PCMSwap Token',
     'https://pcmswap.info/',
   ),
