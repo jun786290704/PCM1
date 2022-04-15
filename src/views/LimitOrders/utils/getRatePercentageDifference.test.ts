@@ -1,7 +1,7 @@
 import { JSBI, Price, Token, Percent } from '@pancakeswap/sdk'
 import getRatePercentageDifference from './getRatePercentageDifference'
 
-const PCM = new Token(56, '0x170814A97FD5130A611Aef99CC9b1f0745636997', 18, 'PCM', 'PancakeSwap Token')
+const PCM = new Token(56, '0x170814A97FD5130A611Aef99CC9b1f0745636997', 18, 'PCM', 'PCMSwap Token')
 const BUSD = new Token(56, '0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56', 18, 'BUSD', 'Binance USD')
 const DOGE = new Token(56, '0xbA2aE424d960c26247Dd6c32edC70B295c744C43', 8, 'DOGE', 'Binance-Peg Dogecoin')
 

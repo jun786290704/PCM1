@@ -2,7 +2,7 @@ import { JSBI, Price, Token } from '@pancakeswap/sdk'
 import getRatePercentageDifference from './getRatePercentageDifference'
 import { getRatePercentageMessage, PercentageDirection } from './getRatePercentageMessage'
 
-const PCM = new Token(56, '0x170814A97FD5130A611Aef99CC9b1f0745636997', 18, 'PCM', 'PancakeSwap Token')
+const PCM = new Token(56, '0x170814A97FD5130A611Aef99CC9b1f0745636997', 18, 'PCM', 'PCMSwap Token')
 const BUSD = new Token(56, '0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56', 18, 'BUSD', 'Binance USD')
 
 const EIGHTEEN_DECIMALS = JSBI.exponentiate(JSBI.BigInt(10), JSBI.BigInt(18))
