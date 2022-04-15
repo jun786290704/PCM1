@@ -14,7 +14,7 @@ import {
   Skeleton,
   Button,
   ArrowForwardIcon,
-} from '@pcmswap/uikit'
+} from '@pancakeswap/uikit'
 import { useTranslation } from 'contexts/Localization'
 import { useWeb3React } from '@web3-react/core'
 import tokens from 'config/constants/tokens'

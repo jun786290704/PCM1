@@ -11,12 +11,12 @@ import {
   ButtonMenuItem,
   HelpIcon,
   useTooltip,
-} from '@pcmswap/uikit'
+} from '@pancakeswap/uikit'
 import { useTranslation } from 'contexts/Localization'
 import useTheme from 'hooks/useTheme'
 import useToast from 'hooks/useToast'
 import { ToastDescriptionWithTx } from 'components/Toast'
-import { Token } from '@pcmswap/sdk'
+import { Token } from '@pancakeswap/sdk'
 import { formatNumber } from 'utils/formatBalance'
 import useCatchTxError from 'hooks/useCatchTxError'
 import { updateUserBalance, updateUserPendingReward, updateUserStakedBalance } from 'state/pools'

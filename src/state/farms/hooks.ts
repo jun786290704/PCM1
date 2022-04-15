@@ -1,4 +1,4 @@
-import { ChainId } from '@pcmswap/sdk'
+import { ChainId } from '@pancakeswap/sdk'
 import { useWeb3React } from '@web3-react/core'
 import BigNumber from 'bignumber.js'
 import { farmsConfig } from 'config/constants'

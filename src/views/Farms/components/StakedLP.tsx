@@ -1,4 +1,4 @@
-import { Heading, Flex } from '@pcmswap/uikit'
+import { Heading, Flex } from '@pancakeswap/uikit'
 import { BigNumber } from 'bignumber.js'
 import Balance from 'components/Balance'
 import { useCallback } from 'react'

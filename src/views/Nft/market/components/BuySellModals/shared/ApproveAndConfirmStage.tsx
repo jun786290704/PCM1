@@ -1,4 +1,4 @@
-import { Flex, Text, Button, Spinner } from '@pcmswap/uikit'
+import { Flex, Text, Button, Spinner } from '@pancakeswap/uikit'
 import { useTranslation } from 'contexts/Localization'
 import { StepIndicator } from './styles'
 

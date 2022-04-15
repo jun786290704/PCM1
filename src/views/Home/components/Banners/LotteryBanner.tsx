@@ -1,4 +1,4 @@
-import { ArrowForwardIcon, Button, Heading, Skeleton, Text, useMatchBreakpoints } from '@pcmswap/uikit'
+import { ArrowForwardIcon, Button, Heading, Skeleton, Text, useMatchBreakpoints } from '@pancakeswap/uikit'
 import BigNumber from 'bignumber.js'
 import { NextLinkFromReactRouter } from 'components/NextLink'
 import { FetchStatus, LotteryStatus } from 'config/constants/types'

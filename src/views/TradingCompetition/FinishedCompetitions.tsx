@@ -1,5 +1,5 @@
 import React from 'react'
-import { Flex } from '@pcmswap/uikit'
+import { Flex } from '@pancakeswap/uikit'
 import { useTranslation } from 'contexts/Localization'
 import SubMenu from './components/SubMenu'
 import FinishedCompetitionBanner from './components/FinishedCompetitionBanner'

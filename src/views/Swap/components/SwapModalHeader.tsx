@@ -1,6 +1,6 @@
 import { useMemo } from 'react'
-import { Trade, TradeType } from '@pcmswap/sdk'
-import { Button, Text, ErrorIcon, ArrowDownIcon } from '@pcmswap/uikit'
+import { Trade, TradeType } from '@pancakeswap/sdk'
+import { Button, Text, ErrorIcon, ArrowDownIcon } from '@pancakeswap/uikit'
 import { Field } from 'state/swap/actions'
 import { useTranslation } from 'contexts/Localization'
 import { computeSlippageAdjustedAmounts, computeTradePriceBreakdown, warningSeverity } from 'utils/prices'

@@ -1,5 +1,5 @@
 import styled from 'styled-components'
-import { Card, CardBody, Heading } from '@pcmswap/uikit'
+import { Card, CardBody, Heading } from '@pancakeswap/uikit'
 
 interface NotificationProps {
   title: string

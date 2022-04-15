@@ -1,6 +1,6 @@
 import React from 'react'
 import styled from 'styled-components'
-import { Flex, Heading } from '@pcmswap/uikit'
+import { Flex, Heading } from '@pancakeswap/uikit'
 
 const Wrapper = styled(Flex)<{ background: string }>`
   position: relative;

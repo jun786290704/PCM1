@@ -1,4 +1,4 @@
-import { Flex, Text } from '@pcmswap/uikit'
+import { Flex, Text } from '@pancakeswap/uikit'
 import { useTranslation } from 'contexts/Localization'
 
 interface NoChartAvailableProps {

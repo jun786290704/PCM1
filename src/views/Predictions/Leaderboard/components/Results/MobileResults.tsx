@@ -1,4 +1,4 @@
-import { Box } from '@pcmswap/uikit'
+import { Box } from '@pancakeswap/uikit'
 import { PredictionUser } from 'state/types'
 import MobileRow from './MobileRow'
 

@@ -11,7 +11,7 @@ import {
   Input,
   ArrowUpIcon,
   ArrowDownIcon,
-} from '@pcmswap/uikit'
+} from '@pancakeswap/uikit'
 import { useAppDispatch } from 'state'
 import { Collection } from 'state/nftMarket/types'
 import { useGetCollections, useGetNftActivityFilters } from 'state/nftMarket/hooks'

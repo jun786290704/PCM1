@@ -1,4 +1,4 @@
-import { Token, ChainId } from '@pcmswap/sdk'
+import { Token, ChainId } from '@pancakeswap/sdk'
 import getLpAddress from 'utils/getLpAddress'
 
 const CAKE_AS_STRING = '0x170814A97FD5130A611Aef99CC9b1f0745636997'

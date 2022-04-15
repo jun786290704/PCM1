@@ -1,4 +1,4 @@
-import { ButtonMenu, ButtonMenuItem } from '@pcmswap/uikit'
+import { ButtonMenu, ButtonMenuItem } from '@pancakeswap/uikit'
 import styled from 'styled-components'
 import useTheme from 'hooks/useTheme'
 import { useTranslation } from 'contexts/Localization'

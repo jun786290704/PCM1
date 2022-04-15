@@ -1,4 +1,4 @@
-import { AutoRenewIcon, Button, Flex, InjectedModalProps, Text } from '@pcmswap/uikit'
+import { AutoRenewIcon, Button, Flex, InjectedModalProps, Text } from '@pancakeswap/uikit'
 import { useTranslation } from 'contexts/Localization'
 import { useCake } from 'hooks/useContract'
 import useCatchTxError from 'hooks/useCatchTxError'

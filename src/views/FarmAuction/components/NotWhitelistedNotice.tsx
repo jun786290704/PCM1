@@ -1,4 +1,4 @@
-import { Text, Flex, Message, Box, HelpIcon } from '@pcmswap/uikit'
+import { Text, Flex, Message, Box, HelpIcon } from '@pancakeswap/uikit'
 import { Auction, ConnectedBidder } from 'config/constants/types'
 import { useTranslation } from 'contexts/Localization'
 

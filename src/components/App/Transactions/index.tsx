@@ -1,4 +1,4 @@
-import { HistoryIcon, Button, useModal } from '@pcmswap/uikit'
+import { HistoryIcon, Button, useModal } from '@pancakeswap/uikit'
 import TransactionsModal from './TransactionsModal'
 
 const Transactions = () => {

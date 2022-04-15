@@ -1,4 +1,4 @@
-import { Token } from '@pcmswap/sdk'
+import { Token } from '@pancakeswap/sdk'
 import tokens from 'config/constants/tokens'
 
 const { bondly, safemoon, itam, ccar, bttold } = tokens

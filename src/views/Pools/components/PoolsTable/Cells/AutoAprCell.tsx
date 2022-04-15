@@ -1,4 +1,4 @@
-import { Text, useMatchBreakpoints } from '@pcmswap/uikit'
+import { Text, useMatchBreakpoints } from '@pancakeswap/uikit'
 import { DeserializedPool } from 'state/types'
 import { useVaultPoolByKey } from 'state/pools/hooks'
 import { useTranslation } from 'contexts/Localization'

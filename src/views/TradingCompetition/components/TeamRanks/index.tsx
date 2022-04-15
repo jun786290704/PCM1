@@ -1,5 +1,5 @@
 import styled from 'styled-components'
-import { Flex, Box, Text, Skeleton, AccountFilledIcon } from '@pcmswap/uikit'
+import { Flex, Box, Text, Skeleton, AccountFilledIcon } from '@pancakeswap/uikit'
 import Image from 'next/image'
 import orderBy from 'lodash/orderBy'
 import { useTranslation } from 'contexts/Localization'

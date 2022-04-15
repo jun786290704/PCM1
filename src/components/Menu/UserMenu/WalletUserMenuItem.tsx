@@ -1,4 +1,4 @@
-import { Flex, UserMenuItem, WarningIcon } from '@pcmswap/uikit'
+import { Flex, UserMenuItem, WarningIcon } from '@pancakeswap/uikit'
 import { useTranslation } from 'contexts/Localization'
 
 interface WalletUserMenuItemProps {

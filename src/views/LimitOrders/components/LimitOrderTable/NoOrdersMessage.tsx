@@ -1,4 +1,4 @@
-import { BunnyPlaceholderIcon, Flex, Text } from '@pcmswap/uikit'
+import { BunnyPlaceholderIcon, Flex, Text } from '@pancakeswap/uikit'
 import React from 'react'
 import { useTranslation } from 'contexts/Localization'
 import { ORDER_CATEGORY } from '../../types'

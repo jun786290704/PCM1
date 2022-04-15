@@ -1,5 +1,5 @@
 import { useState, useEffect } from 'react'
-import { Text, Flex, Skeleton, Image } from '@pcmswap/uikit'
+import { Text, Flex, Skeleton, Image } from '@pancakeswap/uikit'
 import { useFarmAuctionContract } from 'hooks/useContract'
 import { useTranslation } from 'contexts/Localization'
 import { usePriceCakeBusd } from 'state/farms/hooks'

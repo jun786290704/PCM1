@@ -1,6 +1,6 @@
 import { useState } from 'react'
-import { Token } from '@pcmswap/sdk'
-import { ButtonMenu, ButtonMenuItem, ModalBody } from '@pcmswap/uikit'
+import { Token } from '@pancakeswap/sdk'
+import { ButtonMenu, ButtonMenuItem, ModalBody } from '@pancakeswap/uikit'
 import styled from 'styled-components'
 import { TokenList } from '@uniswap/token-lists'
 import { useTranslation } from 'contexts/Localization'

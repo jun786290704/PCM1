@@ -1,4 +1,4 @@
-import { JSBI, Token, TokenAmount } from '@pcmswap/sdk'
+import { JSBI, Token, TokenAmount } from '@pancakeswap/sdk'
 import getPriceForOneToken from './getPriceForOneToken'
 
 const PCM = new Token(56, '0x170814A97FD5130A611Aef99CC9b1f0745636997', 18, 'PCM', 'PancakeSwap Token')

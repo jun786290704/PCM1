@@ -13,7 +13,7 @@ import {
   useMatchBreakpoints,
   Skeleton,
   Heading,
-} from '@pcmswap/uikit'
+} from '@pancakeswap/uikit'
 import { useProfileForAddress } from 'state/profile/hooks'
 import useTheme from 'hooks/useTheme'
 import styled from 'styled-components'

@@ -1,4 +1,4 @@
-import { Flex, Text, Button, ArrowUpIcon, LinkExternal } from '@pcmswap/uikit'
+import { Flex, Text, Button, ArrowUpIcon, LinkExternal } from '@pancakeswap/uikit'
 import { useTranslation } from 'contexts/Localization'
 import { getBscScanLink } from 'utils'
 import useActiveWeb3React from 'hooks/useActiveWeb3React'

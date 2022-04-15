@@ -1,4 +1,4 @@
-import { Flex, FlexProps, Text } from '@pcmswap/uikit'
+import { Flex, FlexProps, Text } from '@pancakeswap/uikit'
 import { useTranslation } from 'contexts/Localization'
 import { useBNBBusdPrice } from 'hooks/useBUSDPrice'
 import { multiplyPriceByAmount } from 'utils/prices'

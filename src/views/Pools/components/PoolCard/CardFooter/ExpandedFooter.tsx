@@ -15,7 +15,7 @@ import {
   Button,
   Link,
   HelpIcon,
-} from '@pcmswap/uikit'
+} from '@pancakeswap/uikit'
 import { BASE_BSC_SCAN_URL } from 'config'
 import { useCurrentBlock } from 'state/block/hooks'
 import { useVaultPoolByKey, useVaultPools } from 'state/pools/hooks'

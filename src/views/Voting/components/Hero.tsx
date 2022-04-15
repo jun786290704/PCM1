@@ -1,4 +1,4 @@
-import { Box, Button, Flex, Heading, ProposalIcon } from '@pcmswap/uikit'
+import { Box, Button, Flex, Heading, ProposalIcon } from '@pancakeswap/uikit'
 import styled from 'styled-components'
 import { useTranslation } from 'contexts/Localization'
 import Container from 'components/Layout/Container'

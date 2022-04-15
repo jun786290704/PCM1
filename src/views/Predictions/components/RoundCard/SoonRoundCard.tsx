@@ -1,4 +1,4 @@
-import { Card, CardBody, Text, WaitIcon } from '@pcmswap/uikit'
+import { Card, CardBody, Text, WaitIcon } from '@pancakeswap/uikit'
 import { useTranslation } from 'contexts/Localization'
 import { NodeRound, BetPosition } from 'state/types'
 import useTheme from 'hooks/useTheme'

@@ -1,4 +1,4 @@
-import { JSBI, Price, Token, Percent } from '@pcmswap/sdk'
+import { JSBI, Price, Token, Percent } from '@pancakeswap/sdk'
 import getRatePercentageDifference from './getRatePercentageDifference'
 
 const PCM = new Token(56, '0x170814A97FD5130A611Aef99CC9b1f0745636997', 18, 'PCM', 'PancakeSwap Token')

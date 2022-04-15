@@ -1,5 +1,5 @@
 import { useMemo } from 'react'
-import { menuStatus } from '@pcmswap/uikit'
+import { menuStatus } from '@pancakeswap/uikit'
 import { useTranslation } from '../../../contexts/Localization'
 import { useMenuItemsStatus } from './useMenuItemsStatus'
 import config, { ConfigMenuItemsType } from '../config/config'

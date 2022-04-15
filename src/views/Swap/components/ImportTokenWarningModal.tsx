@@ -1,5 +1,5 @@
-import { Token } from '@pcmswap/sdk'
-import { Modal, InjectedModalProps } from '@pcmswap/uikit'
+import { Token } from '@pancakeswap/sdk'
+import { Modal, InjectedModalProps } from '@pancakeswap/uikit'
 import ImportToken from 'components/SearchModal/ImportToken'
 import { useTranslation } from 'contexts/Localization'
 

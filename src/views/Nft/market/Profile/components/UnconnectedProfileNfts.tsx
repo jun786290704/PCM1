@@ -1,4 +1,4 @@
-import { Grid, Text, Flex } from '@pcmswap/uikit'
+import { Grid, Text, Flex } from '@pancakeswap/uikit'
 import { NftToken } from 'state/nftMarket/types'
 import { useTranslation } from 'contexts/Localization'
 import { CollectibleLinkCard } from '../../components/CollectibleCard'

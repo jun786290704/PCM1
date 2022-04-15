@@ -1,4 +1,4 @@
-import { BunnyPlaceholderIcon, Flex, Heading } from '@pcmswap/uikit'
+import { BunnyPlaceholderIcon, Flex, Heading } from '@pancakeswap/uikit'
 import { useTranslation } from 'contexts/Localization'
 
 interface ComingSoonProps {

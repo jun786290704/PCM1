@@ -1,4 +1,4 @@
-import { Currency } from '@pcmswap/sdk'
+import { Currency } from '@pancakeswap/sdk'
 import {
   ArrowDownIcon,
   Button,
@@ -9,7 +9,7 @@ import {
   Modal,
   Spinner,
   Text,
-} from '@pcmswap/uikit'
+} from '@pancakeswap/uikit'
 import { CurrencyLogo } from 'components/Logo'
 import { TransactionErrorContent, TransactionSubmittedContent } from 'components/TransactionConfirmationModal'
 import { useTranslation } from 'contexts/Localization'

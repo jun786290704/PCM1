@@ -1,5 +1,5 @@
-import { Currency, ETHER, Token } from '@pcmswap/sdk'
-import { BinanceIcon } from '@pcmswap/uikit'
+import { Currency, ETHER, Token } from '@pancakeswap/sdk'
+import { BinanceIcon } from '@pancakeswap/uikit'
 import { useMemo } from 'react'
 import styled from 'styled-components'
 import { WrappedTokenInfo } from 'state/types'

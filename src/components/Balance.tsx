@@ -1,4 +1,4 @@
-import { Text, TextProps } from '@pcmswap/uikit'
+import { Text, TextProps } from '@pancakeswap/uikit'
 import { useEffect, useRef } from 'react'
 import CountUp from 'react-countup'
 import styled, { keyframes } from 'styled-components'

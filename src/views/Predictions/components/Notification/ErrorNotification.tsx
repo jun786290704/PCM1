@@ -1,4 +1,4 @@
-import { Button, Text } from '@pcmswap/uikit'
+import { Button, Text } from '@pancakeswap/uikit'
 import { useTranslation } from 'contexts/Localization'
 import { useAppDispatch } from 'state'
 import { setHistoryPaneState } from 'state/predictions'

@@ -1,4 +1,4 @@
-import { BoxProps, Text } from '@pcmswap/uikit'
+import { BoxProps, Text } from '@pancakeswap/uikit'
 import { NodeRound } from 'state/types'
 import { useTranslation } from 'contexts/Localization'
 import { getRoundPosition } from '../../helpers'

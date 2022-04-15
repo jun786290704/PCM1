@@ -10,7 +10,7 @@ import {
   Skeleton,
   Tag,
   CheckmarkCircleIcon,
-} from '@pcmswap/uikit'
+} from '@pancakeswap/uikit'
 import { useWeb3React } from '@web3-react/core'
 import { Vote } from 'state/types'
 import { formatNumber } from 'utils/formatBalance'

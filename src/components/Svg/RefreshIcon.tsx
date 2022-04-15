@@ -1,4 +1,4 @@
-import { Svg } from '@pcmswap/uikit'
+import { Svg } from '@pancakeswap/uikit'
 
 // NOTE: Temporary save icon here. Will move to uikit when the feature is done
 

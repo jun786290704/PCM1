@@ -1,4 +1,4 @@
-import { Flex, Skeleton } from '@pcmswap/uikit'
+import { Flex, Skeleton } from '@pancakeswap/uikit'
 
 export const SkeletonCardActions = () => {
   return <Skeleton height="48px" />

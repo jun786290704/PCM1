@@ -11,7 +11,7 @@ import {
   TwitterIcon,
   Link,
   TelegramIcon,
-} from '@pcmswap/uikit'
+} from '@pancakeswap/uikit'
 import tokens from 'config/constants/tokens'
 import { useTranslation } from 'contexts/Localization'
 import { PublicIfoData } from 'views/Ifos/types'

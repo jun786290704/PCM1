@@ -1,4 +1,4 @@
-import { LinkExternal } from '@pcmswap/uikit'
+import { LinkExternal } from '@pancakeswap/uikit'
 import { ContextApi } from 'contexts/Localization/types'
 
 const config = (t: ContextApi['t']) => {

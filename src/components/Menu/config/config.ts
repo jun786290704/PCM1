@@ -11,7 +11,7 @@ import {
   NftFillIcon,
   MoreIcon,
   menuStatus,
-} from '@pcmswap/uikit'
+} from '@pancakeswap/uikit'
 import { ContextApi } from 'contexts/Localization/types'
 import { nftsBaseUrl } from 'views/Nft/market/constants'
 import { perpLangMap } from 'utils/getPerpetualLanguageCode'

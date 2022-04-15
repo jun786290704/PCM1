@@ -1,4 +1,4 @@
-import { JSBI, Price, Token } from '@pcmswap/sdk'
+import { JSBI, Price, Token } from '@pancakeswap/sdk'
 import getRatePercentageDifference from './getRatePercentageDifference'
 import { getRatePercentageMessage, PercentageDirection } from './getRatePercentageMessage'
 
