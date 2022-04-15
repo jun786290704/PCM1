@@ -51,7 +51,7 @@
       "logoURI": "https://pancakeswap.finance/images/tokens/0x55d398326f99059fF775485246999027B3197955.png"
     },
     {
-      "name": "PancakeSwap Token",
+      "name": "PCMSwap Token",
       "symbol": "PCM",
       "address": "0x170814A97FD5130A611Aef99CC9b1f0745636997",
       "chainId": 56,
@@ -123,7 +123,7 @@
       "logoURI": "https://pancakeswap.finance/images/tokens/0xA7f552078dcC247C2684336020c03648500C6d9F.png"
     },
     {
-      "name": "PancakeSwap Token",
+      "name": "PCMSwap Token",
       "symbol": "PCM",
       "address": "0xa35062141Fa33BCA92Ce69FeD37D0E8908868AAe",
       "chainId": 97,
